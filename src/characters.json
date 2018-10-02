@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Midoriya",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/d/d3/Izuku_Midoriya_Costume_Gamma_Profile.png/revision/latest?cb=20180825172251"
+    },
+    {
+        "id": 2,
+        "name": "Bakugo",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/e/e8/Katsuki_Bakugo_Hero_Costume_Full_Body.png/revision/latest/scale-to-width-down/249?cb=20170718224312"
+    },
+    {
+        "id": 3,
+        "name": "Todoroki",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/c/c4/Shoto_Todoroki_school_profile.png/revision/latest?cb=20170728153443"
+    },
+    {
+        "id": 4,
+        "name": "Ururaka",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/9/93/Ochaco_Costume_Full_Body.png/revision/latest?cb=20180702141543"
+    },
+    {
+        "id": 5,
+        "name": "Tsuyu",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/88/Tsuyu_Asui_Full_Body_Hero_Costume_Anime.png/revision/latest/scale-to-width-down/215?cb=20160118114942"
+    },
+    {
+        "id": 6,
+        "name": "Tokoyami",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/7/7a/Fumikage_Full_Body_Hero_Costume.png/revision/latest?cb=20161230181111"
+    },
+    {
+        "id": 7,
+        "name": "Yaoyorozu",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/e/eb/Momo_Yaoyorozu_Full_Body_School_Uniform.png/revision/latest/scale-to-width-down/136?cb=20161230174913"
+    },
+    {
+        "id": 8,
+        "name": "Jiro",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/1/11/Kyoka_Jiro_2nd_Hero_Costume.png/revision/latest?cb=20180727224526"
+    },
+    {
+        "id": 9,
+        "name": "Iida",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/1/10/Tenya_Iida_Full_Body_School_Uniform.png/revision/latest?cb=20160112221219"
+    },
+    {
+        "id": 10,
+        "name": "Kirishima",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/b/b6/Eijiro_Kirishima_3rd_Hero_Costume.png/revision/latest?cb=20180727224457"
+    },
+    {
+        "id": 11,
+        "name": "Kaminari",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/2/20/Denki_Kaminari_2nd_Hero_Costume.png/revision/latest/scale-to-width-down/214?cb=20180727224509"
+    },
+    {
+        "id": 12,
+        "name": "Ashido",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/4/4e/Mina_Ashido_Full_Body_School_Uniform.png/revision/latest?cb=20161230190156"
+    },
+    {
+        "id": 13,
+        "name": "Mineta",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/1/16/Minoru_Mineta_Full_Body_Hero_Costume_Anime.png/revision/latest?cb=20160118115800"
+    },
+    {
+        "id": 14,
+        "name": "Koda",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/e/e4/Koji_Koda_2nd_Hero_Costume.png/revision/latest/scale-to-width-down/233?cb=20180727224552"
+    },
+    {
+        "id": 15,
+        "name": "Sero",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/3/3e/Hanta_Sero_Full_Body_Costume.png/revision/latest/scale-to-width-down/205?cb=20161230191253"
+    },
+    {
+        "id": 16,
+        "name": "Ojiro",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/84/Mashirao_Ojiro_2nd_Hero_Costume.png/revision/latest/scale-to-width-down/217?cb=20180728025539"
+    },
+    {
+        "id": 17,
+        "name": "Aoyama",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/4/49/Yuga_Aoyama_full_body_hero_costume.png/revision/latest/scale-to-width-down/301?cb=20161230185522"
+    },
+    {
+        "id": 18,
+        "name": "Shoji",
+        "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/9/9e/Mezo_Shoji_Full_Body_Hero_Costume.png/revision/latest/scale-to-width-down/245?cb=20161230190634"
+    }
+]
